@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website <br/>
   <a href="(https://kmahe06.github.io/myportfolio/)" target="_blank">Mahe's Portfolio</a>
 </h2>
 <div align="center">
@@ -20,9 +20,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/KMahe06/myportfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/KMahe06/myportfolio/issues">Request Feature</a>
 </h3>
 
 ## Built With
